@@ -1,10 +1,5 @@
----
+
 title: Bsh by NaN
-linkcolor: blue
-header-includes:
- - \usepackage[margin=.5in]{geometry}
-classoption: "12pt"
----
 
 # The Project
 
@@ -15,6 +10,23 @@ This is why this project will focus on the creation of a unix shell. The concept
 Choosing such a project is the most suitable choice because it would help our team tremendously for the 42sh next year.
 
 # Status
+ - || coming soon
+ 
+ - ||
+ 
+ - ||
+ 
++ |2| - second defence: touch/mv/procstatus/cp/date/help/mkdir/rm/rmdir/sort/pwd/tree and non-integrated ui (terminal)
+
+ - ||
+ 
+ - ||
+ 
+ - ||
+ 
+ - ||
+ 
++ |1| - First defence: cd/ls/echo/cat/clear and non-integrated ui (terminal)
 
 
 # Tools
