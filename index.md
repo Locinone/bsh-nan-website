@@ -8,6 +8,9 @@ For Epita (PROMO 2025) we have to build a shell in c language.
 A shell is one of the most crucial programs in any operating system. 
 This is why this project will focus on the creation of a unix shell. The concept may seem simple and easy enough to do but it is way more complicated than it looks mainly because it is going to be made from scratch and because of the long list of commands that exist. 
 Choosing such a project is the most suitable choice because it would help our team tremendously for the 42sh next year.
+# Preview
+
+![bsh](https://i.imgur.com/4JySQTw.gif)
 
 # Status
  - || coming soon
