@@ -13,25 +13,25 @@ Choosing such a project is the most suitable choice because it would help our te
 ![bsh](https://i.imgur.com/4JySQTw.gif)
 
 # Status
- - || coming soon
+ + |3| Bsh Web console 
  
- - ||
+
  
- - ||
  
 + |2| - second defence: touch/mv/procstatus/cp/date/help/mkdir/rm/rmdir/sort/pwd/tree and non-integrated ui (terminal)
 
- - ||
  
- - ||
+
  
- - ||
+
  
- - ||
+
  
 + |1| - First defence: cd/ls/echo/cat/clear and non-integrated ui (terminal)
 
-
+# Console
+Make sure the client and server are running.
+<a href="http://localhost:3000/console">Access</a>
 # Tools
 
 The shell is made using c. With gcc compilor. Gtk-3 and Gtksourceview-4 libraries. 
@@ -57,15 +57,8 @@ After that, they will work together with Enrique in order to perfect the parsing
 
 He is in charge of the GUI part and the project website which will track the whole project’s progress.
 The GUI part consists of our own terminal window done using the GTK library while having the same functionalities as an ordinary terminal window.
-
-<div class="team-image">
-<img src="https://photos.cri.epita.fr/thumb/barbora.plasovska" alt="Barbora Plašovská"/>
-<img src="https://photos.cri.epita.fr/thumb/enrique.tarabay" alt="Enrique Tarabay"/>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Ffacebook-no-profile-picture-icon-26.jpg&f=1&nofb=1 " alt="Charbel Abboud"/>
-<img src="https://photos.cri.epita.fr/thumb/loic-mahatsangy.jy" alt="Loic Mahatsangy JY"/>
-
-</div>
-
+# Graph
+![graph](https://i.imgur.com/vnOwkw3.png)
 # Contact
 
 + Website: [https://locinone.github.io/bsh-nan-website/](https://locinone.github.io/bsh-nan-website/)
